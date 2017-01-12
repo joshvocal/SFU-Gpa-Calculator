@@ -1,3 +1,3 @@
 # SFU GPA Calculator
 
-![screenshot](https://github.com/joshvocal/SFUGpaCalculator/blob/master/screenshot.jpg)
+<img src="https://github.com/joshvocal/SFUGpaCalculator/blob/master/screenshot.jpg" alt="screenhot" width="400" height="800">
