@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SFU GPA Calculator</string>
+
+    <string name="cgpaCalculatorTop">Calculate your term GPA and CGPA based on your
+    anticipated grades.</string>
+    <string name="gpaForTargetCgpaTop">Calculate the GPA you would need on your remaining units
+    to reach your target CPGA.</string>
+    <string name="unitsForTargetCgpaTop">Calculate the number of extra units you will need to reach
+    a target CGPA.</string>
+
+    <!-- Fragments -->
+    <string name="CGPAcalculator">CGPA Calculator</string>
+    <string name="GPAForTarget">GPA for target CGPA</string>
+    <string name="UnitsForTarget">Units for target CGPA</string>
+
+    <!-- Fragments -->
+    <string name="tooManyCoursesError">Sorry, you added to many courses.</string>
+    <string name="noMoreCoursesToRemove">You have no more courses to remove.</string>
+    <string name="currentCgpaError">Your current CGPA must be between 0 and 4.33.</string>
+    <string name="totalUnitsAttemptedError">Your total units attempted is invalid.</string>
+    <string name="spinnerValuesError">Your course values are invalid.</string>
+    <string name="targetCgpaError">Your target CGPA must be between 0 and 4.33.</string>
+    <string name="remainingUnitsError">Your remaining units are invalid.</string>
+    <string name="gpaNotPossibleError">Sorry, your target CGPA is not possible to reach.</string>
+    <string name="targetGpaForEachTermError">Your target GPA for each term must be between 0 and 4.33.</string>
+    <string name="resetMessage">All values have been reset.</string>
+    <string name="unitsForTargetCgpaError">You cannot achieve the target CGPA given the target GPA.</string>
+
+    <!-- Fragments -->
+    <string name="cancel">Cancel</string>
+    <string name="course">Course</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="addCourse">Add Course</string>
+    <string name="removeCourse">Remove Course</string>
+    <string name="totalUnitsAttempted">Total units attempted</string>
+    <string name="currentCgpa">Current CGPA</string>
+    <string name="targetCgpa">Target CGPA</string>
+    <string name="remainingUnits">Remaining units</string>
+    <string name="targetGPAForEachTerm">Target GPA for each term</string>
+    <string name="gpaBetween">0 to 4.33</string>
+
+    <!-- Fragments -->
+    <string name="cgpaCalculatorTitle">Estimated GPA and CGPA:</string>
+    <string formatted="false" name="gpaCalculatorMessage">Gpa Estimate (Current Term):\n%.3f\n\nCgpa Estimate (All Terms):\n%.3f</string>
+
+    <string name="gpaForTargetTitle">GPA to maintain:</string>
+    <string name="gpaForTargetMessage">You will need to maintain the following GPA for your
+        remaining courses:\n%.3f</string>
+
+    <string name="unitsForTargetTitle">To achieve your target CGPA:</string>
+    <string formatted="false" name="unitsForTargetMessage">You will need at least %.0f units to obtain a CGPA of %.3f
+    assuming you maintain a GPA of %.3f.</string>
+</resources>

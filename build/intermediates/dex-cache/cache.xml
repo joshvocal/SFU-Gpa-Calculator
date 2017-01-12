@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="72d5378f661dbd94810295835d30221a7f89f17e">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_517f77fb4f911cef2cad12a084d19df8908cc99b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_acf6ef8e65b12d6c3004e30b78c0c2d6f0e8aad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_1e099f0be0fb2b4959302511ff88e0e06aa42916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_dc91df621e70c661bdc0fb552c90d084732bca56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_1c4f4aad6b5c07c57700de3ed982490a38a911b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_84477cfd57b38dd9c2e295e7c9750012f8afe945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_81631fb650f845e4c328408473d221eee5f3d807/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f2e416fe66ebe8f4909265bc870e9c94c7ab5b4">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1f79e409e6ff3b85512b9515513ee33773540c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_789ad956e2281e1530a19562c6e7e0742982b78e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/jvocal/AndroidStudioProjects/SFUGpaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_06854891d1b04bb2cb50d2ea62ae9a715e2d6692/classes.dex" />
+    </item>
+
+</items>
